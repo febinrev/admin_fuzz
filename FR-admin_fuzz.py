@@ -7,9 +7,10 @@ def febrev_fuzz():
 ╠╣ ╠╦╝───╠═╣ │││││││││    ╠╣ │ │┌─┘┌─┘
 ╚  ╩╚═   ╩ ╩─┴┘┴ ┴┴┘└┘────╚  └─┘└─┘└─┘ ---> coded by \033[0;39m FEBIN (https://github.com/febinrev)
 	\033[1;38m""")
-	feblist=open("febrev-fuzz.txt","r+")
+	feblist=open("febrev-fuzzlist.txt","r+")
 	text=str(feblist.read())
 	adminpages=list(text.split())
+	feblist.close()
 	url=input("\033[1;35mENTER THE URL TO FUZZ ADMIN PANEL :> \033[0;34m")
 	print(f"""\033[1;33m
 STARTED CRAWLING TO FIND ADMIN PANEL OF URL : \033[1;34m{url}
