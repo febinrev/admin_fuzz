@@ -40,3 +40,4 @@ except KeyboardInterrupt:
 	print("\033[1;31m USER INTERRUPTION DETECTED.....EXITING")
 	print("  ")
 	print("\033[1;39m THANKS FOR USING FEBREV-ADMIN_FUZZ....You can give me a credit by providing a STAR in Github >> \033[4;34m \033[5;34m https://github.com/febinrev/febrev-admin_fuzz")
+	sys.exit(0)
