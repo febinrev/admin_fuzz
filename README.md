@@ -6,4 +6,7 @@ A handy,clean and easy tool for pentesters, for finding the admin panels of webs
  *2) open the terminal in the current directory
  *3) run " python3 FR-admin_fuzzer.py
  
- ![FEBREV-ADMIN_FUZZER](https://github.com/febinrev/febrev-admin_fuzz/screenshots/Screenshot from 2020-02-19 17-27-40.png)
+## Advantages
+ i) It is handy and easy to use
+ ii) Can find almost all kinds of admin panels from the website
+ iii)light weight and beautiful
