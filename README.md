@@ -9,5 +9,7 @@
 # Advantages
 ### i) It is handy and easy to use
 ### ii) Can find almost all kinds of admin panels from the website
-### iii)light weight and beautiful
+### iii) light weight and beautiful
+### iv) Detects the Server type
+### v) Detects Forbidden pages
 ## iv) MORE EFFICIENT ADMIN PANEL FINDER THAN OTHERS 
