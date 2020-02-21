@@ -31,6 +31,8 @@ STARTED CRAWLING TO FIND ADMIN PANEL OF URL : \033[1;34m{url}
 			url=f"{url}/"
 			server=requests.get(url).headers.get('Server')
 			print(f"\033[1;37mSERVER Type >> {server}")
+			print("\n<----------------------------------------------------------------------------------->")
+			print(" ")
 		for i in range(len(adminpages)):
 			reqresp=requests.get(f"{url}/{adminpages[i]}",timeout=10)
 			if reqresp.status_code == 200:
