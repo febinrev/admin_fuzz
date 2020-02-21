@@ -4,7 +4,7 @@
 # Usage:
  ### 1) got to the cloned FR-admin_fuzzer directory
  ### 2) open the terminal in the current directory
- ### 3) run " python3 FR-admin_fuzzer.py
+ ### 3) run " python3 FR-admin_fuzz.py
  
 # Advantages
 ### i) It is handy and easy to use
