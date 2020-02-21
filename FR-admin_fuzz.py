@@ -24,8 +24,8 @@ STARTED CRAWLING TO FIND ADMIN PANEL OF URL : \033[1;34m{url}
 		if url.endswith("/"):
 			url=url
 			server=requests.get(url).headers.get('Server')
-			print(f"\033[1;37mSERVER Type >> {server}")
-			print("<----------------------------------------------------------------------------------->")
+			print(f"\033[1;37m SERVER Type >> {server}")
+			print("\n<----------------------------------------------------------------------------------->")
 			print(" ")
 		else:
 			url=f"{url}/"
