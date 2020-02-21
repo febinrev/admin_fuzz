@@ -1,7 +1,6 @@
 import sys
 def febrev_fuzz():
 	import requests
-	from fake_useragent import UserAgent
 	print("""\033[1;36m
 ╔═╗╦═╗   ╔═╗┌┬┐┌┬┐┬┌┐┌    ╔═╗┬ ┬┌─┐┌─┐
 ╠╣ ╠╦╝───╠═╣ │││││││││    ╠╣ │ │┌─┘┌─┘
