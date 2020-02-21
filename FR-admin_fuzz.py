@@ -41,7 +41,7 @@ STARTED CRAWLING TO FIND ADMIN PANEL OF URL : \033[1;34m{url}
 			else:
 				pass
 	except requests.exceptions.ConnectionError:
-		print("Connection to the Server Failed, Check Your Internet connection and try again\n ")
+		print("Connection to the Server Failed, May be invalid URL or bad Internet connection. Check Your Internet connection,URL and try again\n ")
 	
 	print("\033[1;37m FEBREV-Admin_Fuzz Execution Completed. \033[1;33m!HAPPY HACKING! \033[1;34m \n")
 try:
