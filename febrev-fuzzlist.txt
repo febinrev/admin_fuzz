@@ -1,3 +1,7 @@
+robot.txt
+robots.txt
+.htaccess
+.htpasswd
 admin.php
 admin.html
 index.php
