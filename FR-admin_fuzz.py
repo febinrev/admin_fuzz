@@ -59,7 +59,7 @@ def febrev_dirfuzz():
 	feblist.close()
 	url=input("\n \033[1;35mENTER THE URL TO FUZZ/BRUTE :> \033[0;34m")
 	print(f"""\033[1;33m
-STARTED CRAWLING TO FIND DIRECTORIES THE URL : \033[1;34m{url}
+STARTED CRAWLING TO FIND DIRECTORIES IN THE URL : \033[1;34m{url}
 	""")
 	try:
 		if url.startswith("https://") or url.startswith("http://"):
