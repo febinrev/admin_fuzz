@@ -209,7 +209,7 @@ try:
 		else:
 			print("\n \033[1;31m Error : YOUR CHOICE IS INVALID!!.....Exiting!\n")
 	except ValueError:  #ValueError
-		print("\n \033[1;31m Error :YOU ENTERED AN INVALID CHOICE INPUT,,,PLEASE ENTER 1 or 2....Please Rerun the tool with correct input.\n")
+		print("\n \033[1;31m Error :YOU ENTERED AN INVALID CHOICE INPUT,,,PLEASE ENTER 1 or 2 or 3....Please Rerun the tool with correct input.\n")
 		print("\033[1;39m THANKS FOR USING FEBREV-ADMIN_FUZZ....You can give me a credit by providing a STAR in Github >> \033[4;34m \033[5;34m https://github.com/febinrev/febrev-admin_fuzz")
 except KeyboardInterrupt:
 	print("\033[1;34m")
