@@ -14,6 +14,6 @@
 ### iii) light weight and beautiful
 ### iv) Detects the Server type
 ### v) Detects Forbidden pages
-## iv) MORE EFFICIENT ADMIN PANEL FINDER THAN OTHERS 
+## vi) MORE EFFICIENT ADMIN PANEL FINDER THAN OTHERS 
 # New feature: 
-## IT  CAN CREATE WORDLISTS FROM WEBSITES/WEBPAGES
+## vii) IT  CAN CREATE WORDLISTS FROM WEBSITES/WEBPAGES
