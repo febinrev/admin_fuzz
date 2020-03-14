@@ -5,7 +5,8 @@
  ### 1) got to the cloned FR-admin_fuzz directory
  ### 2) open the terminal in the current directory
  ### 3) Run " python3 -m pip install requests "
- ### 4) run " python3 FR-admin_fuzz.py
+ ### 4) Run " python3 -m pip install bs4 "
+ ### 5) run " python3 FR-admin_fuzz.py
  
 # Advantages
 ### i) It is handy and easy to use
