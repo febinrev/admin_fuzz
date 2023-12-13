@@ -3,9 +3,9 @@ import sys
 import os
 os.system("clear")
 print("""\033[1;36m
-╔═╗╦═╗   ╔═╗┌┬┐┌┬┐┬┌┐┌    ╔═╗┬ ┬┌─┐┌─┐
-╠╣ ╠╦╝───╠═╣ │││││││││    ╠╣ │ │┌─┘┌─┘
-╚  ╩╚═   ╩ ╩─┴┘┴ ┴┴┘└┘────╚  └─┘└─┘└─┘ ---> coded by \033[0;39m FEBIN (https://github.com/febinrev) \033[1;38m """)
+╔═╗┌┬┐┌┬┐┬┌┐┌    ╔═╗┬ ┬┌─┐┌─┐
+╠═╣ │││││││││    ╠╣ │ │┌─┘┌─┘
+╩ ╩─┴┘┴ ┴┴┘└┘────╚  └─┘└─┘└─┘ ---> coded by \033[0;39m FEBIN (https://github.com/febinnj) \033[1;38m """)
 def febrev_fuzz():
 	import requests
 	os.system("clear")
