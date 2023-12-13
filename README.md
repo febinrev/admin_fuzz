@@ -1,12 +1,12 @@
-# FebRev-Admin_fuzz
+# Admin_fuzz
 ### A handy,clean and easy tool for pentesters, for finding the admin panels of websites
 
 # Usage:
- ### 1) got to the cloned FR-admin_fuzz directory
+ ### 1) got to the cloned admin_fuzz directory
  ### 2) open the terminal in the current directory
  ### 3) Run " python3 -m pip install requests "
  ### 4) Run " python3 -m pip install bs4 "
- ### 5) run " python3 FR-admin_fuzz.py
+ ### 5) run " python3 admin_fuzz.py
  
 # Advantages
 ### i) It is handy and easy to use
